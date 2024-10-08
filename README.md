@@ -7,3 +7,5 @@
 - Assine seu commit
 - Envie seu commit assinado para seu repositório (o que foi gerado pelo 'fork' deste)
 - Envie-me um PULL REQUEST com seu commit assinado
+
+
