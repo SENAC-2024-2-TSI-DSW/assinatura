@@ -1,0 +1,23 @@
+[33mcommit b1d27dc0b2bf24352dfa3c2cb718ac88d7a30a78[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mcristian_martini[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/cristian_martini[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Cristian martini <cristianmartini.sp@gmail.com>
+Date:   Tue Oct 8 20:32:05 2024 -0300
+
+    assinado
+
+[33mcommit daaddbc5a14fbde59b8030268fb9f2df84abbcb8[m
+[41mgpg: Signature made Tue Oct  8 19:21:22 2024    [m
+[41mgpg:                using RSA key B5690EEEBB952194[m
+[41mgpg: Can't check signature: No public key[m
+Author: Eduardo Heredia <contato@eduardoheredia.net.br>
+Date:   Tue Oct 8 19:21:22 2024 -0300
+
+    Update README.md
+
+[33mcommit 1329c440635a6534b803065597afbcbe7cd57110[m
+[41mgpg: Signature made Tue Oct  8 19:17:53 2024    [m
+[41mgpg:                using RSA key B5690EEEBB952194[m
+[41mgpg: Can't check signature: No public key[m
+Author: Eduardo Heredia <contato@eduardoheredia.net.br>
+Date:   Tue Oct 8 19:17:53 2024 -0300
+
+    Initial commit
